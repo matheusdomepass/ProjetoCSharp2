@@ -1,0 +1,7 @@
+C:\Users\mathe\Source\Repos\matheusdomepass\02-ByteBank\ByteBank\ByteBank\obj\Debug\BancoDigital.csproj.AssemblyReference.cache
+C:\Users\mathe\Source\Repos\matheusdomepass\02-ByteBank\ByteBank\ByteBank\obj\Debug\BancoDigital.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Source\Repos\matheusdomepass\02-ByteBank\ByteBank\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\mathe\Source\Repos\matheusdomepass\02-ByteBank\ByteBank\ByteBank\obj\Debug\ByteBank.pdb
+C:\Users\mathe\Source\Repos\matheusdomepass\02-ByteBank\ByteBank\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\mathe\Source\Repos\matheusdomepass\02-ByteBank\ByteBank\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\mathe\Source\Repos\matheusdomepass\02-ByteBank\ByteBank\ByteBank\bin\Debug\ByteBank.pdb
